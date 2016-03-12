@@ -1,5 +1,5 @@
 # HeatBed_Temp_Controler
-RepRap MK2 heatbed temperature controler for 24V external power supply
+RepRap MK3 heatbed temperature controler for 24V external power supply
 
 Used a 100K Thermistor with 10K serial resistor.
 All values are calculate from a Python script using the typical Steinhart equation.

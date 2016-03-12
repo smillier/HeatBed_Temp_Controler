@@ -6,7 +6,7 @@ All values are calculate from a Python script using the typical Steinhart equati
 
 The script is also in this repo.
 
-A relay control was added to the original script in a dirty code, it's just an example as it shuts off at 21°C. Either ajust this value in the code, either ajust the code to make it variable ;)
+A relay control was added to the arduino sketch in a dirty code, it's just an example as it shuts off at 21Â°C. Either ajust this value in the code, either ajust the code to make it variable ;)
 
 ![Arduino_Controler](hbcontroler.jpg)
 
